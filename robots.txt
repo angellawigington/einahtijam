@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aetauneep.analogmoments.art/sitemap.xml
